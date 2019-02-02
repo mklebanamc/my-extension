@@ -7,7 +7,7 @@
     <author name="USERNAME" email="USER@example.com" organization="My Company" website="https://www.example.com"/>
     <min-api-version>1.0</min-api-version>
     <source-location>
-      <url>http://localhost:8765/index.html</url> 
+      <url>https://my-extension-qpvj0nwy3.now.sh</url> 
     </source-location>
     <icon/>
   </dashboard-extension>
