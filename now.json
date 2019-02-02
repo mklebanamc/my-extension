@@ -1,3 +1,6 @@
 {
-  "alias": ["my-zeit-website2.com"]
+  "alias": ["my-zeit-website2.com"],
+  "github": {
+    "autoAlias": false
+  }
 }
